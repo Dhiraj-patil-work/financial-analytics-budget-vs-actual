@@ -84,22 +84,6 @@ Executive Report
 
 ---
 
-## 📈 Dashboard
-
-### Executive Overview
-
-![Dashboard Overview](screenshots/dashboard_overview.png)
-
-### Variance Analysis
-
-![Variance Analysis](screenshots/variance_analysis.png)
-
-### Expense Analytics
-
-![Expense Analytics](screenshots/expense_analysis.png)
-
----
-
 ## 🧮 Financial Formulas
 
 Variance:
